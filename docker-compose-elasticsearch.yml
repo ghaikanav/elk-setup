@@ -17,4 +17,4 @@ services:
         hard: -1
 
 volumes:
-  data01:{}
+  data01: {}
