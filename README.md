@@ -1,4 +1,4 @@
-## start docker in this order:
+## start containers in this order:
 
 > docker-compose -f docker-compose-elasticsearch.yml up
 
