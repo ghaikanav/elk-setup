@@ -1,0 +1,16 @@
+version: '2'
+services:
+  postgres:
+    container_name: logger-pgres
+    image: postgres
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres:/var/lib/postgresql/data
+    environment:
+        POSTGRES_DB: logger
+        POSTGRES_PASSWORD: Log@123
+    restart: always
+
+volumes:
+  postgres: {}
