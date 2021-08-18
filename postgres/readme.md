@@ -1,5 +1,5 @@
 Setup the postgres
-> docker-compose up .
+> docker-compose . up -d
 
 
 username is : postgres
@@ -25,7 +25,7 @@ CREATE TABLE businesslogs_mock(
 );
 
 
-INSERT INTO businesslogs (user_name,message,log_date)
+INSERT INTO businesslogs_mock (user_name,message,log_date)
 VALUES ('user5','card successfully added :user5','2021-08-22');
 
 ```

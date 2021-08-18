@@ -1,0 +1,10 @@
+INSERT INTO businesslogs_mock (id,message,log_date) VALUES (1,'transaction successfully completed using cardtype:visa','2021-08-21');
+INSERT INTO businesslogs_mock (id,message,log_date) VALUES (2,'transaction successfully completed using cardtype:rupay','2021-07-22');
+INSERT INTO businesslogs_mock (id,message,log_date) VALUES (3,'transaction successfully completed using cardtype:mastercard','2021-06-23');
+INSERT INTO businesslogs_mock (id,message,log_date) VALUES (4,'transaction successfully completed using cardtype:visa','2021-08-21');
+INSERT INTO businesslogs_mock (id,message,log_date) VALUES (5,'transaction successfully completed using cardtype:rupay','2021-07-22');
+INSERT INTO businesslogs_mock (id,message,log_date) VALUES (6,'transaction successfully completed using cardtype:mastercard','2021-06-23');
+INSERT INTO businesslogs_mock (id,message,log_date) VALUES (7,'transaction successfully completed using cardtype:visa','2021-08-21');
+INSERT INTO businesslogs_mock (id,message,log_date) VALUES (8,'transaction successfully completed using cardtype:rupay','2021-07-22');
+INSERT INTO businesslogs_mock (id,message,log_date) VALUES (9,'transaction successfully completed using cardtype:mastercard','2021-06-23');
+INSERT INTO businesslogs_mock (id,message,log_date) VALUES (10,'transaction successfully completed using cardtype:visa','2021-08-21');
